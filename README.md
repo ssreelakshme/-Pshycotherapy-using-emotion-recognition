@@ -13,3 +13,6 @@ c.Start conversation
 PS: if there is difficulty in accessing the bot using the qr code below
 
 https://t.me/vvst2002_bot
+
+
+...
